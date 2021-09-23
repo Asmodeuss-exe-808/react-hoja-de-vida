@@ -1,0 +1,133 @@
+.info i{
+    margin-left: 0%;
+    color: #FFFFFF;
+
+    padding: 10px;
+    font-size: 15px;
+}
+.information i{  
+   margin-top: 50px;
+    margin-left: 2%;
+
+
+font-size: 20px;
+}
+.error{margin-top: 5%;}
+
+.information div{
+    width: 90%;
+    margin-left: 5%;
+    color: BLACK;
+
+}
+.informationdos div{
+color: green;
+}
+
+body{background-color: #c3cdf0
+    ;}
+.contageneral{
+color: white;
+    width: 850px;
+    height: 650px;
+    margin: auto ;
+background-color: red;
+
+}
+h5{color: #436eac;
+    font-weight: 500;
+}
+
+.textno{
+    color: black;
+}
+.textnon{
+    color:#436eac;
+}
+
+.contauno{
+    height: 100%;
+    width: 35%;
+    float:left;
+background-color: #1e2736;
+    display: flex; 
+}
+.contactounodentro{
+    margin-left: 13%;
+    margin-right: 5%;
+}
+.contados{
+    
+    width: 65%;
+    float:right;
+    height: 100%;
+background-color: white;
+    display: flex;
+    
+}
+
+.foto{
+    flex-basis: 100%;
+    text-align: center;
+}
+.foto img{
+    margin-top: 50px;
+    max-width: 220px;
+    width: 100%;
+    border-radius: 50%;
+    border: 7px solid #FFFFFF;
+
+}
+
+  hr {
+      border-radius: 10px;
+    border: 2px solid ;
+    width: 80%;
+    background-color: #60687b;
+}
+
+  
+
+.text{
+    flex-basis: 60%;
+}
+
+.nombre{
+color: rgb(0, 191, 255);
+}
+
+.texto h1{
+    font-weight: 450;
+}
+
+.texto h3{
+    font-weight: 350;
+}
+
+.skills{
+    float: right;
+    margin-right: 20%;
+}
+.lenguajes{
+    float: right;
+    margin-right: 20%;
+}
+
+.nomprincipal{
+    color: white;
+    font-weight: 700;
+}
+
+.nombre{
+    font-weight: 450;
+color: rgb(0, 191, 255);
+}
+
+.pagprin{
+    font-family: 'Fredoka One', cursive;
+margin-top: 10%;
+}
+.botonini{
+    font-family: 'Fredoka One', cursive;
+    margin-top: 10%;
+}

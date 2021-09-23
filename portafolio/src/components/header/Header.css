@@ -1,0 +1,62 @@
+body{background-color: #c3cdf0
+    ;}
+.general{
+
+    width: 850px;
+    height: 280px;
+    margin: auto ;
+background-color: red;
+
+}
+.uno{
+    height: 100%;
+    width: 35%;
+    float:left;
+background-color: #1e2736
+;
+    display: flex;
+    
+}
+.dos{
+    
+    width: 65%;
+    float:right;
+    height: 100%;
+    background-image: url("./header.jpg");
+    display: flex;
+    
+}
+
+
+
+
+
+.foto{
+    flex-basis: 100%;
+    text-align: center;
+}
+.foto img{
+    margin-top: 50px;
+    max-width: 220px;
+    width: 100%;
+    border-radius: 50%;
+    border: 7px solid #FFFFFF;
+
+}
+
+.text{
+    flex-basis: 60%;
+}
+.nomprincipal{
+    font-weight: 600;
+}
+
+.nombre{
+    font-weight: 450;
+color: rgb(0, 191, 255);
+}
+
+.texto{
+    margin-top: 60px;
+    margin-left: 15px;
+}
